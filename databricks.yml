@@ -11,4 +11,4 @@ bundle:
                 - name: 'sql-warehouse'
                   sql_warehouse:
                     id: "48838cdd82629862"
-                    permission: "CAN_RUN"
+                    permission: 'CAN_RUN'
